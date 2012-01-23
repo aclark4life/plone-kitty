@@ -10,6 +10,8 @@ some fun with Plone 1.
 Installation
 ============
 
+Follow these steps::
+
     $ git clone git@github.com:aclark4life/plone_1_fun.git
     $ python2.4 bootstrap.py -d
     $ cd parts/zope2
