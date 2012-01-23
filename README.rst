@@ -14,10 +14,14 @@ Follow these steps::
 
     $ git clone git@github.com:aclark4life/plone_1_fun.git
     $ python2.4 bootstrap.py -d
+    $ bin/supervisord
+
+Now for some work-arounds::
+
     $ cd parts/zope2
     $ ../../bin/zopepy zpasswd.py -u euser -p euser access
 
-Now login as euser and reset admin's password. Logout and login as admin and
+Login as euser and reset admin's password. Logout and login as admin and
 create a Plone site. It will produce a traceback, at which point go to the ZMI
 and manually add a CMF ActionsIcon tool.
 
