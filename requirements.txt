@@ -1,1 +1,15 @@
-zc.buildout
+collective.recipe.supervisor==0.18
+distribute==0.6.34
+hexagonit.recipe.download==1.6
+mr.developer==1.23
+plone.recipe.command==1.1
+zc.buildout==1.6.3
+zc.recipe.egg==1.2.2
+
+#Required by:
+#mr.developer 1.23
+argparse==1.1
+
+#Required by:
+#mr.developer 1.23
+elementtree==1.2.7-20070827-preview
