@@ -1,1 +1,1 @@
-parts/zope2/start -w $PORT
+parts/zope2/start -w $PORT -f -
