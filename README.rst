@@ -17,7 +17,7 @@ Follow these steps::
 Edit `buildout.cfg` to look like this::
 
     [buildout]
-    extends = http://pythonpackages.com/buildout/plone/1.1.x-dev
+    extends = https://raw.github.com/pythonpackages/buildout-plone/master/1.1.x-dev
 
 Then::
 
