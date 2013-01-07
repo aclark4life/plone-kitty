@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Feeling nostalgic for the early 2000s? Take some time out of your day to run Plone 1!
+Feeling nostalgic for the early 2000s? Take some time to run Plone 1!
 
 .. image:: https://github.com/aclark4life/plone_1_fun/raw/master/screenshot.png
 
