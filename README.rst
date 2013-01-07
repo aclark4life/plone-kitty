@@ -33,4 +33,4 @@ Known issues
 ------------
 
 - Creating a Plone Site in the ZMI will produce a traceback. To fix this, go to the ZMI and add a CMF ActionsIcon tool.
-- It is in no way a good idea to use this in a production environment.
+- It is in no way a good idea to use this in a production environment, it's just for fun.
