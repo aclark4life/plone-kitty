@@ -1,1 +1,1 @@
-web: buildout ; bin/supervisord -e debug -n
+web: buildout; runapp.sh
