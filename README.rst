@@ -24,6 +24,8 @@ Then::
     $ bin/buildout
     $ bin/supervisord
 
+Open http://localhost:8080/manage in your web browser and login with the credentials specified during installation (i.e. buildout). Create a Plone Site in the Zope Management Interface.
+
 Heroku
 ~~~~~~
 
