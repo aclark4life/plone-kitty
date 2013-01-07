@@ -14,7 +14,7 @@ Follow these steps::
     $ bin/pip install zc.buildout
     $ bin/buildout init
 
-Edit `buildout.cfg` to look like this::
+Edit ``buildout.cfg`` to look like this::
 
     [buildout]
     extends = https://raw.github.com/pythonpackages/buildout-plone/master/1.1.x-dev
