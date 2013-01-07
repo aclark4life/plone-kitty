@@ -1,1 +1,1 @@
-web: buildout; runapp.sh
+web: buildout; ./runapp.sh
