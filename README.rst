@@ -24,12 +24,12 @@ Then::
     $ bin/buildout
     $ bin/supervisord
 
+Heroku
+~~~~~~
+
+Now works on Heroku thanks to _`Python Runtime Support <https://devcenter.heroku.com/articles/python-runtimes>`.
+
 Known issues
 ------------
 
 - Creating a Plone Site in the ZMI will produce a traceback. To fix this, go to the ZMI and add a CMF ActionsIcon tool.
-
-Heroku
-------
-
-Now works on Heroku thanks to `Python Runtime Support <https://devcenter.heroku.com/articles/python-runtimes>`.
