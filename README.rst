@@ -27,7 +27,7 @@ Then::
 Heroku
 ~~~~~~
 
-Now works on Heroku thanks to _`Python Runtime Support <https://devcenter.heroku.com/articles/python-runtimes>`.
+Now works on Heroku thanks to `Python Runtime Support <https://devcenter.heroku.com/articles/python-runtimes>`_.
 
 Known issues
 ------------
