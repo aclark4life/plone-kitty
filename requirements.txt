@@ -9,5 +9,5 @@ meld3==0.6.10
 mr.developer==1.23
 plone.recipe.command==1.1
 supervisor==3.0b1
-zc.buildout==2.0.0
+zc.buildout==1.7.0
 zc.recipe.egg==1.2.2
