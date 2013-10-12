@@ -3,6 +3,7 @@ buildout.bootstrap==1.4.6
 collective.recipe.supervisor==0.19
 elementtree==1.2.7-20070827-preview
 gocept.recipe.env==1.0
+hashlib
 hexagonit.recipe.download==1.7
 meld3==0.6.10
 plone.recipe.command==1.1
